@@ -11,6 +11,7 @@
 
 + `C`
 + `Python`
++ `PHP`, `CSS`, `HTML`
 
 ## Projets :open_file_folder:  
 
