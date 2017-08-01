@@ -1,6 +1,7 @@
 <h1 align="center">Tristan Balu </h1>
 
-<img alt="Informations" src="https://raw.githubusercontent.com/Flyeram/CV/master/img/infos.png"/>  
+<img alt="Informations" src="https://raw.githubusercontent.com/Flyeram/CV/master/img/infos.png"/>       
+[Linkedin](https://fr.linkedin.com/in/tristanbalu42)
 
 ## Formation :pencil:   
 
