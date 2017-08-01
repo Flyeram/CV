@@ -2,6 +2,10 @@
 
 <img alt="Informations" src="https://raw.githubusercontent.com/Flyeram/CV/master/img/infos.png"/>  
 
+## Compétences :computer:  
+
++ `Python`
+
 ## Divers :mag:
 
 + **2014-2015** Rédacteur bénévole League of Legends - *O'Gaming*
