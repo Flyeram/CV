@@ -17,6 +17,7 @@
 
 ## Compétences :computer:  
 
++ `Unity3D`, `C#`
 + `C`
 + `Python`
 + `PHP`, `CSS`, `HTML`
