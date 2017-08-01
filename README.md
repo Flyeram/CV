@@ -17,6 +17,7 @@
 ## Langues :earth_americas:   
 
  :fr: **Français** - Langue maternelle  
+:gb: **Anglais** - Lu, écrit  
 
 ## Centres d'intérets :panda_face: 
 + Tchoukball :soccer:
