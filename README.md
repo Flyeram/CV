@@ -2,6 +2,10 @@
 
 <img alt="Informations" src="https://raw.githubusercontent.com/Flyeram/CV/master/img/infos.png"/>  
 
+## Formation :pencil:   
+
++ **2015**       Baccalauréat Scientifique (Mention Bien) - *Lycée Sophie Germain*
+
 ## Compétences :computer:  
 
 + `Python`
