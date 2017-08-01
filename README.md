@@ -1,7 +1,14 @@
 <h1 align="center">Tristan Balu </h1>
 
-<img alt="Informations" src="https://raw.githubusercontent.com/Flyeram/CV/master/img/infos.png"/>       
+<img alt="Informations" src="https://raw.githubusercontent.com/Flyeram/CV/master/img/infos.png"/>         
 [Linkedin](https://fr.linkedin.com/in/tristanbalu42)
+
+## Expériences :office:   
+
+#### Développeur - [AxoneSys](http://www.axonesys.com/), Nanterre   
+*Décembre 2016 - Mai 2017*  
++ Participation au développement d'un logiciel d'hypervision 3D avec Unity.
++ Mise en place d'une application Android pour contrôler un Drone.
 
 ## Formation :pencil:   
 
