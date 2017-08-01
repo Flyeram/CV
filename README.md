@@ -4,11 +4,25 @@
 
 ## Formation :pencil:   
 
++ **2015-2018**  [École 42](http://www.42.fr/) - *École d'informatique*
 + **2015**       Baccalauréat Scientifique (Mention Bien) - *Lycée Sophie Germain*
 
 ## Compétences :computer:  
 
++ `C`
 + `Python`
+
+## Projets :open_file_folder:  
+
+### RT   
+ *Un raytracer fait avec SDL - projet de groupe*    
+
+*[Lien](https://github.com/Flyeram/RT-42) vers le projet*  
+
+### Wolf3D   
+*Un labyrinthe en raycasting*   
+
+*[Lien](https://github.com/Flyeram/Wolf3d-42) vers le projet*  
 
 ## Divers :mag:
 
