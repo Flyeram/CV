@@ -2,6 +2,10 @@
 
 <img alt="Informations" src="https://raw.githubusercontent.com/Flyeram/CV/master/img/infos.png"/>  
 
+## Divers :mag:
+
++ **2014-2015** Rédacteur bénévole League of Legends - *O'Gaming*
+
 ## Langues :earth_americas:   
 
  :fr: **Français** - Langue maternelle  
